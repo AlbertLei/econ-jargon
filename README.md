@@ -1,4 +1,4 @@
-欢迎在本项目 Issues 评论或提交 Pull Request.
+欢迎在 [Github项目页面](https://github.com/AlbertLei/econ-jargon)  提交 Pull Request 或使用 Issues 评论。
 
 
 | 英文                      | 中文     | 其他翻译   | 注                 |
