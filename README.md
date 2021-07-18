@@ -1,6 +1,11 @@
 # 经济学相关术语的中文翻译
 
 
+欢迎在 [Github项目页面](https://github.com/AlbertLei/econ-jargon) 提交 Pull Request 或使用 Issues 评论。
+
+------
+
+
 | 英文                      | 中文     | 其他翻译   | 注                 |
 | ------------------------- | -------- | ---------- | ------------------ |
 | incomplete information  | 不完备信息[^fnii]     | 不完全信息   |
@@ -9,6 +14,8 @@
 | business cycle | 经济周期 | 商业周期 |                    |
 | real business cycle | 实际经济周期 | 真实经济周期[^fnbc] |    |
 
+
+------
 
 [^fnii]: 将 (in)complete 翻译成(不)完备的，可以和另一个经济学术语完备度量空间 (complete metric space) 保持一致。
 
